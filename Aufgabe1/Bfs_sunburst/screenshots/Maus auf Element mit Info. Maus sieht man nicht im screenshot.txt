@@ -1,0 +1,4 @@
+Maus auf Element mit Info. Maus sieht man nicht im screenshot
+
+Zu Consolenausgabe der Knoten:
+edgeoffset und maxvalue werden gebraucht für die berechnung der start- und Endwinkel

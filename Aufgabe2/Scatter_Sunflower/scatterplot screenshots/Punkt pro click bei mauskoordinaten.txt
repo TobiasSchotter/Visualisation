@@ -1,0 +1,1 @@
+Punkt pro click bei mauskoordinaten
